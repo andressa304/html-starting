@@ -7,5 +7,5 @@
 
 #### Todos os dias
 * git add .
-* git commit -m comentario-qualquer
+* git commit -m "minha primeira navegação com html"
 * push
